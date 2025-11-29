@@ -16,6 +16,6 @@ public class HelloWorld {
         // Say hello to the user
         System.out.println("Nice to meet you, " + name + "!");
 
-        scanner.close();
+        scanner.close()
     }
-}
+
